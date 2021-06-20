@@ -7,7 +7,6 @@
 
 I'm Ceren Cicek, a third year Computer Engineering student from Turkey.
 
-- 🔭   I’m currently learning Machine Learning
 
 <br />
 
