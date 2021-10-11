@@ -1,6 +1,6 @@
 ## Hi there, I'm Ceren 👋
 
-I'm third year Computer Engineering student from Turkey.
+I'm fourth year Computer Engineering student from Turkey.
 
 <!---![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=crncck&show_icons=true&theme=material-palenight) &nbsp; -->
 
